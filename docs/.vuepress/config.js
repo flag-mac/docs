@@ -3,7 +3,7 @@ const moment = require('moment');
 moment.locale('zh-cn');
 
 module.exports = {
-    base: '/docs/',
+  
     title: '乔治 API 接口文档',
     description: '乔治 API 接口文档，稳定免费',
     markdown: {
