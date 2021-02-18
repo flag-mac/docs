@@ -1,6 +1,6 @@
 ---
 home: true
-#heroImage: /hero.png
+heroImage: https://img.fddmao.com/2021/02/18/5ee0244f312454e6ecfee95efc243af6.png
 heroText: 乔治 API 接口文档
 tagline: 这里是乔治制作的简易 API 系列~
 actionText: 快速上手 →
