@@ -15,8 +15,9 @@ title: 随机动漫
 
 <p>图片版权归原作者所有，本站不为滥用本 API 进行违规操作者承担责任。</P>
 
-!> 已开启域名白名单验证， <a href="https://www.flagg.cn/examine.html" target="_blank">留言申请</a> 调用吧！速度嘎嘎快！
-
+::: tip
+已开启域名白名单验证， <a href="https://www.flagg.cn/examine.html" target="_blank">留言申请</a> 调用吧！速度嘎嘎快！
+:::
 
 ### 请求地址
 

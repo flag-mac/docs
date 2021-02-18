@@ -1,4 +1,18 @@
+const moment = require('moment');
+
 module.exports = {
+  plugins: [
+    [
+      '@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          moment.locale(lang)
+          return moment(timestamp).format('LLLL')
+        }
+      }
+    ]
+  ],
+
     base: '/docs/',
     title: '乔治 API 接口文档',
     description: '乔治 API 接口文档，稳定免费',
