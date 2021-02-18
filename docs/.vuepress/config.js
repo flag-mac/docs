@@ -1,24 +1,24 @@
 const moment = require('moment');
 
-module.exports = {
-  plugins: [
-    [
-      '@vuepress/last-updated',
-      {
-        transformer: (timestamp, lang) => {
-          moment.locale(lang)
-          return moment(timestamp).format('LLLL')
-        }
-      }
-    ]
-  ],
+moment.locale('zh-cn');
 
+module.exports = {
     base: '/docs/',
     title: '乔治 API 接口文档',
     description: '乔治 API 接口文档，稳定免费',
     markdown: {
       lineNumbers: true
-    },  
+    },
+    plugins: [
+      [
+        '@vuepress/last-updated',
+        {
+          transformer: (timestamp, lang) => {
+            return moment(timestamp).format('LLLL')
+          }
+        }
+      ]
+    ],  
     themeConfig: {
       nav: [
         { text: '首页', link: '/' },
