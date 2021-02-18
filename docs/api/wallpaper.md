@@ -2,6 +2,7 @@
 title: 随机动漫
 ---
 
+<center><h1>小窝动漫</h1></center>
 
 ## 简介
 
