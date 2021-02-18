@@ -20,14 +20,7 @@ module.exports = {
   plugins: {
     '@vuepress/last-updated' : {
       transformer: (timestamp, lang) => moment(timestamp).format('LLLL')
-    },
-    '@vuepress/pwa' : {
-      serviceWorker: true,
-      updatePopup: {
-        message: "有新的风暴出现",
-        buttonText: "刷新"
-      }
-    },  
+    }, 
     '@vuepress/back-to-top' : true
   },
   themeConfig: {
