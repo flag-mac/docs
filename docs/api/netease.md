@@ -8,25 +8,25 @@ title: 网易云解析
     </h1>
 </center>
 
-### 使用方法
+## 使用方法
 调用地址：`https://api.gitcc.cn/Netease/api.php?` 
 
 如果您已开始使用本 API 服务，则默认视为遵守 [本约定](/Notice/appointment)。
 
 !> 音乐版权归网易云音乐所有，本站不为滥用本 API 进行违规操作者承担责任。
 
-### 参数
+## 参数
 
 | 参数 |      类型       |        描述         |
 | :--: | :-------------: | :-----------------: |
 | type`必填` |netease/tencent  | 解析：网易云/QQ音乐 |
 | id`必填`   | int             |  音乐id             |
 
-### 请求示例
+## 请求示例
 
 `https://api.gitcc.cn/Netease/api.php?type=netease&id=1808492017`
 
-### 返回示例
+## 返回示例
 
     {"code":"200",
     "name":"错位时空",

@@ -1,5 +1,5 @@
 ---
-title: Handsome 静态文件加速
+title: Handsome
 ---
 
 <center>

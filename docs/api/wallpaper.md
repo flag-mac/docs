@@ -1,5 +1,5 @@
 ---
-title: 随机动漫
+title: 小窝漫图
 ---
 
 <center><h1>小窝动漫</h1></center>

@@ -1,5 +1,5 @@
 ---
-title: CUteen 静态文件
+title: Cuteen
 ---
 
 <center>

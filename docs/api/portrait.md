@@ -1,10 +1,10 @@
 ---
-title: QQ头像获取
+title: QQ 头像获取
 ---
 
 <center>
     <h1>
-        QQ头像获取
+        QQ头像获取（加密）
     </h1>
 </center>
 

@@ -1,5 +1,5 @@
 ---
-title: 网易云热品
+title: 网易云热评
 ---
 
 <center>
@@ -8,22 +8,22 @@ title: 网易云热品
     </h1>
 </center>
 
-### 使用方法
+## 使用方法
 调用地址：`https://api.gitcc.cn/wall/`
 
 如果您已开始使用本 API 服务，则默认视为遵守 [本约定](/Notice/appointment)。
 
-### 参数
+## 参数
 
 | 参数 |      类型       |        描述         |
 | :--: | :-------------: | :-----------------: |
 | wyrp`必填` | 空 | 网易云热评 |
 
-### 请求示例
+## 请求示例
 
 `https://api.gitcc.cn/wall/wyrp.php`
 
-### 返回示例
+## 返回示例
 
     {"code":1,
     "data":{"name":"The truth that you leave",
