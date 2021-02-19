@@ -21,10 +21,9 @@ GitHub文件链接带不带协议头都可以，支持release、archive以及文
 
 ## 合法输入示例
 
-?>分支源码：https://github.com/hunshcn/project/archive/master.zip
-
-?>release源码：https://github.com/hunshcn/project/archive/v0.1.0.tar.gz
-
-?>release文件：https://github.com/hunshcn/project/releases/download/v0.1.0/example.zip
-
-?>分支文件：https://github.com/hunshcn/project/blob/master/filename
+::: tip
+分支源码：https://github.com/hunshcn/project/archive/master.zip
+release源码：https://github.com/hunshcn/project/archive/v0.1.0.tar.gz
+release文件：https://github.com/hunshcn/project/releases/download/v0.1.0/example.zip
+分支文件：https://github.com/hunshcn/project/blob/master/filename
+:::
