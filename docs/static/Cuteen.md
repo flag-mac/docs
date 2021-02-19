@@ -12,8 +12,12 @@ title: Cuteen
 
 如果您已开始使用本 静态加速CDN 服务，则默认视为遵守 [本约定](/Notice/appointment)。
 
-?> https://ku.gitcc.cn/cdn/theme/Cuteen@版本号/static/
+::: tip
+https://ku.gitcc.cn/cdn/theme/Cuteen@版本号/static/
+:::
 
 示例：`https://ku.gitcc.cn/cdn/thmem/Cuteen@4.1/static/`
 
-!> 注意：劣质CDN可能会拖慢网站的速度。
+::: danger 注意
+劣质CDN可能会拖慢网站的速度。
+:::

@@ -27,20 +27,3 @@ title: 更新记录
 <h3>2021.01.01</h3>
 <p><strong>增加 “随机美女壁纸” API</strong></p>
 <p><strong>增加 “随机动漫壁纸” API</strong></p>
-
-<h3>赞助我：</h3>
-<p>本服务将长期免费提供。如您能为本站献上微薄之力，就是对我的最大支持了~ 记得备注支持 “乔治の API” 噢！</p>
-<div class="row center">
-            <div class="col-6 col-m-4 center-fixed">
-                <img src="https://img.gitcc.cn/admin/TOIMG91f940110022322N.png">
-                <p>支付宝</p>
-            </div>
-            <div class="col-6 col-m-4 center-fixed">
-                <img src="https://img.gitcc.cn/admin/TOIMGbf2870110022302N.png">
-                <p>微信支付</p>
-            </div>
-            <div class="col-6 col-m-4 center-fixed">
-                <img src="https://img.gitcc.cn/admin/TOIMGd7a3a0110022233N.png">
-                <p>QQ 钱包</p>
-            </div>
-</div>
