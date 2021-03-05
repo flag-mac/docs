@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-02-17 19:16:47
- * @LastEditTime: 2021-03-05 19:51:19
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: \docs\docs\README.md
--->
 ---
 home: true
 heroImage: https://img.fddmao.com/2021/03/05/8ec51a8aaae3d8de7fd034aab754ba9a.png
