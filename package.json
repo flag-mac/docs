@@ -25,7 +25,6 @@
   },
   "dependencies": {
     "countup.js": "^2.0.7",
-    "moment": "^2.29.1",
-    "vuepress-plugin-boxx": "^0.0.7"
+    "moment": "^2.29.1"
   }
 }
