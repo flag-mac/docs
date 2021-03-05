@@ -1,6 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-02-17 19:16:47
+ * @LastEditTime: 2021-03-05 19:51:19
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \docs\docs\README.md
+-->
 ---
 home: true
-heroImage: https://img.fddmao.com/2021/02/18/5ee0244f312454e6ecfee95efc243af6.png
+heroImage: https://img.fddmao.com/2021/03/05/8ec51a8aaae3d8de7fd034aab754ba9a.png
 heroText: 乔治 API 接口文档
 tagline: 这里是乔治制作的简易 API 系列~
 actionText: 快速上手 →

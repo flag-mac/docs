@@ -1,19 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-02-19 10:55:09
- * @LastEditTime: 2021-03-05 14:34:35
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: \docs\docs\api\Player.md
--->
-<!--
- * @Author: your name
- * @Date: 2021-02-19 10:55:09
- * @LastEditTime: 2021-03-05 14:32:15
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \docs\docs\api\Player.md
--->
 ---
 title: H5 弹幕播放器
 ---
