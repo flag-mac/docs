@@ -1,5 +1,4 @@
 const moment = require('moment');
-const secret = require('./secret');
 
 moment.locale('zh-cn');
 
