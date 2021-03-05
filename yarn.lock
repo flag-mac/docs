@@ -7710,6 +7710,11 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
+vuepress-plugin-boxx@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-boxx/-/vuepress-plugin-boxx-0.0.7.tgz#8337d27eaf5b3f609eb7befdb3681ce5f0eac17c"
+  integrity sha512-UeBl8ZCSy4wT2uh9lsO0GpIC3QaVI5gcZbs4TZ/2wMNHJ71IRXorisGe9DDSjlTU8q3vNq837tBnC8Jyq3cVXA==
+
 vuepress-plugin-container@^2.0.2:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-container/-/vuepress-plugin-container-2.1.5.tgz#37fff05662fedbd63ffd3a5463b2592c7a7f3133"

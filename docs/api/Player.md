@@ -1,3 +1,19 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-02-19 10:55:09
+ * @LastEditTime: 2021-03-05 14:34:35
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \docs\docs\api\Player.md
+-->
+<!--
+ * @Author: your name
+ * @Date: 2021-02-19 10:55:09
+ * @LastEditTime: 2021-03-05 14:32:15
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \docs\docs\api\Player.md
+-->
 ---
 title: H5 弹幕播放器
 ---
@@ -49,4 +65,4 @@ title: H5 弹幕播放器
 
 ## 请求示例
 
-<iframe src="https://h5.gitcc.cn/player/?url=https://video.gitcc.cn/%E3%81%BF%E3%82%84%E3%81%96%E3%81%8D%20%E3%81%AF%E3%82%84%E3%81%8A/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC.mp4" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://h5.gitcc.cn/player/?url=https://video.gitcc.cn/demo/IMG_0328.mp4" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" width="100%" height="500px" frameborder="0"></iframe>

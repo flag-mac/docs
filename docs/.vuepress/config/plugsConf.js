@@ -7,5 +7,6 @@ module.exports = {
   '@vuepress/last-updated': {
     transformer: (timestamp, lang) => moment(timestamp).format('LLLL')
   },
-  '@vuepress/back-to-top': true
+  '@vuepress/back-to-top': true,
+  'vuepress-plugin-boxx': true
 }
