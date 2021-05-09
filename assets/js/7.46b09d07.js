@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{405:function(t,e,n){"use strict";n.r(e);var s=n(44),r=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("center",[e("h1",[this._v("投稿记录单")])])],1)}),[],!1,null,null,null);e.default=r.exports}}]);
